@@ -1,3 +1,3 @@
 # TALLER-30
 
-https://colab.research.google.com/drive/1gByEhxb3bdSsxkWeOTpmO5yT7i415s9J?usp=sharing
+https://colab.research.google.com/drive/1ufR28aWxV3sgvQ8gIt4Zq-_heqzuTZzM#scrollTo=LBOufnwIsEcS
